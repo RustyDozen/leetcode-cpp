@@ -35,8 +35,8 @@ Each file is named as: `XXXX-Problem-Name.cpp`
 
 ## Progress
 
-- **Total Solved**: 4
-- **Easy**: 2
+- **Total Solved**: 5
+- **Easy**: 3
 - **Medium**: 2
 - **Hard**: 0
 
