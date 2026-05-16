@@ -26,6 +26,7 @@ I solve problems to improve my DSA skills and prepare for technical interviews.
 ├── Greedy/  
 ├── Backtracking/   
 ├── Bit-Manipulation/   
+├── Binary-Search/  
 └── README.md   
 
 Each file is named as: `XXXX-Problem-Name.cpp`
@@ -34,9 +35,9 @@ Each file is named as: `XXXX-Problem-Name.cpp`
 
 ## Progress
 
-- **Total Solved**: 3
+- **Total Solved**: 4
 - **Easy**: 2
-- **Medium**: 1
+- **Medium**: 2
 - **Hard**: 0
 
 ---
