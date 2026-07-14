@@ -53,4 +53,4 @@ g++ -std=c++17 solution.cpp -o solution
 
 ## Connect
 
-LeetCode: [Yeaman](https://leetcode.com/u/Yeaman/)
+LeetCode: [Yeaman](https://leetcode.com/u/RustyDozen/)
